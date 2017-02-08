@@ -7,3 +7,11 @@ img.resize {
   color: red;
   font-style: italic;
 }
+
+.best {
+  font-family: monospace;
+  font-weight: 400;
+  text-decoration: underline;
+  color: blue;
+  text-align: center;
+}
