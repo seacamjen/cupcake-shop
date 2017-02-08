@@ -1,0 +1,9 @@
+img.resize {
+  width: auto;
+  height: 200px;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
